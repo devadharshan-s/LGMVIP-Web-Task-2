@@ -7,4 +7,3 @@ This is a react app that fetches users data from the given API
 
 Use "npm start" to run the application.
 
-![CODERED - SQL injection](https://github.com/devadharshan-s/LGMVIP-Web-Task-2/assets/104019511/dea5c4bf-c834-484f-a114-54f04952faca)
